@@ -1,6 +1,6 @@
 # hello-react
 
-A step-by-step implamentation of the infamous [React Tic Tac Toe Game Tutorial](https://reactjs.org/tutorial/tutorial.html)
+A step-by-step implementation of the infamous [React Tic Tac Toe Game Tutorial](https://reactjs.org/tutorial/tutorial.html)
 
 # Getting Started with Create React App
 
